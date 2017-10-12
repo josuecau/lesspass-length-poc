@@ -1,0 +1,9 @@
+{
+  "name": "lesspass-length-poc",
+  "version": "1.0.0",
+  "dependencies": {
+    "csv-string": "^2.3.2",
+    "lesspass": "github:lesspass/core#379de2ab2d6a914a2af6fbb586bb6bf0d60fd27c",
+    "leven": "^2.1.0"
+  }
+}
